@@ -1,2 +1,7 @@
-# csd-380
-CSD380-300O_2271_DD • CSD380-300O DevOps (2271-DD)
+# CSD 380 Web Development with HTML and CSS
+
+## Contributors
+- Instructor: Professor Adam Bailey
+- Girma Dingeto
+
+
